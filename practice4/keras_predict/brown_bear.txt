@@ -1,0 +1,8 @@
+Predicted for VGG16 model:  [('n02132136', 'brown_bear', 0.9999974), ('n02133161', 'American_black_bear', 2.3764467e-06), ('n02396427', 'wild_boar', 9.857229e-08)]
+Predicted for Xception model:  [('n03814906', 'necklace', 0.99300015), ('n03942813', 'ping-pong_ball', 0.0031744756), ('n02112350', 'keeshond', 0.0008160336)]
+Predicted for VGG19 model:  [('n02132136', 'brown_bear', 0.99999785), ('n02133161', 'American_black_bear', 2.0109264e-06), ('n02134084', 'ice_bear', 1.15551984e-07)]
+Predicted for InceptionV3 model:  [('n01924916', 'flatworm', 0.9986533), ('n03047690', 'clog', 0.0013466809), ('n04476259', 'tray', 3.060511e-09)]
+Predicted for MobileNet model:  [('n03598930', 'jigsaw_puzzle', 0.291596), ('n03485794', 'handkerchief', 0.07179444), ('n04399382', 'teddy', 0.07080986)]
+Predicted for ResNet50 model:  [('n02132136', 'brown_bear', 0.99999213), ('n02133161', 'American_black_bear', 3.6361469e-06), ('n03388043', 'fountain', 2.7020005e-06)]
+Predicted for MobileNetV2 model:  [('n06874185', 'traffic_light', 0.31940022), ('n02841315', 'binoculars', 0.06522917), ('n03388043', 'fountain', 0.041322697)]
+Predicted for InceptionResNetV2 model:  [('n06596364', 'comic_book', 1.0), ('n02791124', 'barber_chair', 4.8538746e-29), ('n15075141', 'toilet_tissue', 0.0)]
